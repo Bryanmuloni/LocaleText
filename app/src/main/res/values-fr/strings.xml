@@ -9,4 +9,11 @@
     <string name="nougat">Paquet de bonbons au nougat</string>
     <string name="support_phone">+14155551212</string>
     <string name="action_language">Langue</string>
+
+    <string name="expiration_date">"Date d'expiration: "</string>
+    <string name="quantity_label">Quantité:</string>
+    <string name="enter_a_number">Entrez un numéro</string>
+    <string name="price_label">Prix par colis:</string>
+    <string name="total_to_pay">Le total à payer:</string>
+    <string name="enter_number">Entrez un numéro</string>
 </resources>
