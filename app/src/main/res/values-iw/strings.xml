@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">טקסט מקומי</string>
+    <string name="action_help">עזרה</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="description">נוגט הוא משפחה של קונדיטורים המיוצרים עם סוכר או דבש, אגוזים קלויים (שקדים, אגוזי מלך, פיסטוקים, אגוזי לוז ואגוזי מקדמיה נפוצים), חלבוני קצפת, ולפעמים פירות מסוכרים קצוצים. משתמשים בו במגוון ממתקים ושוקולד.</string>
+    <string name="dial_log_message">לא ניתן לפתור אפליקציה מתוך כוונה ACTION_DIAL.</string>
+    <string name="help_text">אם אתה זקוק לעזרה, צור קשר עם מחלקת התמיכה שלנו.</string>
+    <string name="nougat">חבילת ממתקי נוגט</string>
+    <string name="support_phone">+14155551212</string>
+    <string name="action_language">שפה</string>
+</resources>
